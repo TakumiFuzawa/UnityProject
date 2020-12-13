@@ -2,7 +2,8 @@
  
 研究所でワクチンを入手して、研究所のゴールを目指すバーチャルワールドです。
  
-# DEMO
+# DEMO(画像)
+ワクチン研究所のバーチャルワールド
 ![project](https://user-images.githubusercontent.com/46737524/102016154-d277e080-3da2-11eb-86d4-f16c4f634492.png)
 
 # Features
