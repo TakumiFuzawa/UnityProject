@@ -30,10 +30,9 @@
 「cluster (クラスター)」は、スマートフォンやPC、VR機器など様々な環境からバーチャル空間に集ってイベントに参加したり、友達とコンテンツを楽しめるバーチャルSNSです。
 clusterのイベントでは主催者と参加者をシステム的に区別しており、イベント開催に適した機能を揃えたプラットフォームとなっています。また、イベントページのURLをシェアするだけで、数百～数千名のユーザーが好きな場所から集まってイベントに参加できます。
  
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
+```
+https://cluster.mu/w/8f5b64ae-429d-43dc-b1fb-6c205b6c5acf
+
 ```
  
 # Note
