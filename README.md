@@ -36,21 +36,15 @@ https://cluster.mu/w/8f5b64ae-429d-43dc-b1fb-6c205b6c5acf
  
 # Note
  
-注意点などがあれば書く
+一応完成はしたが、うまく動かないことや、バグが多々ある
  
 # Author
  
-作成情報を列挙する
+作成情報
  
-* 作成者
-* 所属
-* E-mail
+* 作成者　大学のゼミメンバー数人(プログラミング係2名、モデリング係5名)
+* 所属 大学
  
 # License
-ライセンスを明示する
  
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
+"UnityProject" is under [MIT license](https://cluster.mu/w/8f5b64ae-429d-43dc-b1fb-6c205b6c5acf).
