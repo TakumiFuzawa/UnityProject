@@ -1,0 +1,280 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6027171337656380426
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6027171337656380429}
+  - component: {fileID: 6027171337656380438}
+  - component: {fileID: 6027171337656380439}
+  - component: {fileID: 6027171337656380436}
+  - component: {fileID: 6027171337656380437}
+  - component: {fileID: 6027171337656380434}
+  - component: {fileID: 6027171337656380435}
+  - component: {fileID: 6027171337656380432}
+  - component: {fileID: 6027171337656380433}
+  - component: {fileID: 6027171337656380430}
+  - component: {fileID: 6027171337656380431}
+  - component: {fileID: 6027171337656380428}
+  - component: {fileID: 1454404345}
+  m_Layer: 14
+  m_Name: "\u30A2\u30A4\u30C6\u30E0\uFF1A\u30EF\u30AF\u30C1\u30F3 (1) 1"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6027171337656380429
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027171337656380426}
+  m_LocalRotation: {x: -0.7069834, y: 0, z: 0, w: 0.7072302}
+  m_LocalPosition: {x: -15.211515, y: 1, z: -196.2072}
+  m_LocalScale: {x: 0.013154323, y: 0.013154323, z: 0.013154323}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -89.98, y: 0, z: 0}
+--- !u!33 &6027171337656380438
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027171337656380426}
+  m_Mesh: {fileID: 8824279933577288631, guid: efea4672c1195b741a6917628fb56245, type: 3}
+--- !u!23 &6027171337656380439
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027171337656380426}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -7330350377055782655, guid: efea4672c1195b741a6917628fb56245, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!54 &6027171337656380436
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027171337656380426}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!64 &6027171337656380437
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027171337656380426}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8824279933577288631, guid: efea4672c1195b741a6917628fb56245, type: 3}
+--- !u!114 &6027171337656380434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027171337656380426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 557c1287071b147459bb6f001560c6e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item: {fileID: 6027171337656380435}
+  rb: {fileID: 6027171337656380436}
+--- !u!114 &6027171337656380435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027171337656380426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3977a5e65e72f4db4b85ddba10d48dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id:
+    value: 9505100030394663405
+  itemName: "\u30A2\u30A4\u30C6\u30E0"
+--- !u!114 &6027171337656380432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027171337656380426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce108e3354c62c345a1cbcdf1f965e21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movableItem: {fileID: 6027171337656380434}
+  grip: {fileID: 0}
+--- !u!114 &6027171337656380433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027171337656380426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaad96d2e18f43efbdaeaf6edf336ff7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  grabbableItem: {fileID: 6027171337656380432}
+  triggers:
+  - target: 1
+    specifiedTargetItem: {fileID: 0}
+    key: active_wall
+    type: 1
+    value:
+      boolValue: 0
+      floatValue: 0
+      integerValue: 0
+  - target: 0
+    specifiedTargetItem: {fileID: 6027171337656380435}
+    key: CloneVaccine
+    type: 0
+    value:
+      boolValue: 0
+      floatValue: 0
+      integerValue: 0
+  - target: 0
+    specifiedTargetItem: {fileID: 6027171337656380435}
+    key: warpgoal
+    type: 0
+    value:
+      boolValue: 0
+      floatValue: 0
+      integerValue: 0
+--- !u!114 &6027171337656380430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027171337656380426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a2d50bc3e074e22919ff17b806ad61e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item: {fileID: 6027171337656380435}
+  key:
+    target: 0
+    key: CloneVaccine
+  itemTemplate: {fileID: 2559395822274887327, guid: 924e3d82142b8874d8cc46a26200cfd4,
+    type: 3}
+  itemTemplateId:
+    value: 957925033755969720
+  spawnPoint: {fileID: 6027171337656380429}
+--- !u!114 &6027171337656380431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027171337656380426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a235adcd912f4bbb9b5397586de7af9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  grabbableItem: {fileID: 6027171337656380432}
+  triggers:
+  - target: 0
+    specifiedTargetItem: {fileID: 0}
+    key: ReleaseVaccine
+    type: 0
+    value:
+      boolValue: 0
+      floatValue: 0
+      integerValue: 0
+--- !u!114 &6027171337656380428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027171337656380426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 396768c05fa51bd47ab528ca7d76a531, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item: {fileID: 6027171337656380435}
+  key:
+    target: 0
+    key: ReleaseVaccine
+--- !u!114 &1454404345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027171337656380426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1d8e543cd7949dca4dea0d3f964b8ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key:
+    target: 1
+    key: warpgoal
+    item: {fileID: 0}
+  targetTransform: {fileID: 0}
+  keepPosition: 0
+  keepRotation: 1
