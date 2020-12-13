@@ -31,7 +31,7 @@
 clusterのイベントでは主催者と参加者をシステム的に区別しており、イベント開催に適した機能を揃えたプラットフォームとなっています。また、イベントページのURLをシェアするだけで、数百～数千名のユーザーが好きな場所から集まってイベントに参加できます。
  
 ```
-https://cluster.mu/w/8f5b64ae-429d-43dc-b1fb-6c205b6c5acf
+(https://cluster.mu/w/8f5b64ae-429d-43dc-b1fb-6c205b6c5acf).
 ```
  
 # Note
@@ -44,6 +44,3 @@ https://cluster.mu/w/8f5b64ae-429d-43dc-b1fb-6c205b6c5acf
  
 * 作成者　大学のゼミメンバー数人(プログラミング係2名、モデリング係5名)
  
-# License
- 
-"UnityProject" is under [MIT license](https://cluster.mu/w/8f5b64ae-429d-43dc-b1fb-6c205b6c5acf).
