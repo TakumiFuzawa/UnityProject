@@ -32,7 +32,6 @@ clusterのイベントでは主催者と参加者をシステム的に区別し�
  
 ```
 https://cluster.mu/w/8f5b64ae-429d-43dc-b1fb-6c205b6c5acf
-
 ```
  
 # Note
