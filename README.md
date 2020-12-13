@@ -18,10 +18,11 @@
 
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
+"UnityProject"を動かすのに必要なライブラリなどを列挙する
  
-* huga 3.5.2
-* hogehuga 1.0.2
+* Unity 
+* C#
+* ClusterCreatorKit-1.11.0
  
 # Installation
  
