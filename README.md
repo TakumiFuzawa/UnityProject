@@ -43,7 +43,6 @@ https://cluster.mu/w/8f5b64ae-429d-43dc-b1fb-6c205b6c5acf
 作成情報
  
 * 作成者　大学のゼミメンバー数人(プログラミング係2名、モデリング係5名)
-* 所属   大学
  
 # License
  
